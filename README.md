@@ -4,4 +4,5 @@ Completing assignments such as simulating a walking robot with swinging arms and
 
 
 ### Notices:
-Please first download glew.dll and create the proper environment before executing the files. Once the environment is set up, you can run the '.exe' files to see how the assignments and the project work.
+1. Please first download glew.dll and create the proper environment before executing the files. Once the environment is set up, you can run the '.exe' files to see how the assignments and the project work.
+2. Transform.cpp is just an individual file to test your environment, and there is an assignment in it.
